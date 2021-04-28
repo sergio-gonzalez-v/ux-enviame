@@ -21,7 +21,7 @@ Test de usabilidad con usuarios. (Ideal)
 # Prototipo:
 https://www.figma.com/proto/UN0xMKDGaDJKshYzwGzYvI/enviame?page-id=0%3A1&node-id=1%3A3&viewport=506%2C655%2C0.35439592599868774&scaling=min-zoom
 
-# imagenes:
+# Imagenes:
 [iMac - 3](https://user-images.githubusercontent.com/83372409/116467302-87380900-a83d-11eb-9fb2-cd9de894de54.png)
 
 [iMac - 2](https://user-images.githubusercontent.com/83372409/116467298-8606dc00-a83d-11eb-952b-c86cb19aa0b7.png)
